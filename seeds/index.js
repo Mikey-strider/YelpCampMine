@@ -36,10 +36,10 @@ const seedDB = async () => {
                 ]
             },
             images:[
-                {
-                    url: 'https://res.cloudinary.com/polesexual-productions/image/upload/v1616870795/YelpCamp/eo0zvfuwyvejasyrnkdc.jpg',
-                    filename:  'YelpCamp/jjfjfgkejqci9ftwbczj'
-                },
+                // {
+                //     url: 'https://res.cloudinary.com/polesexual-productions/image/upload/v1616870795/YelpCamp/eo0zvfuwyvejasyrnkdc.jpg',
+                //     filename:  'YelpCamp/jjfjfgkejqci9ftwbczj'
+                // },
                 // {
                 //     url: 'https://res.cloudinary.com/polesexual-productions/image/upload/v1616653415/YelpCamp/svh3tf1tzllnoewivdvg.jpg',
                 //     filename:  'YelpCamp/svh3tf1tzllnoewivdvg'
